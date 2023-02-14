@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [![info](https://github-readme-stats.vercel.app/api?username=HanFengA7&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanFengA7&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/marcozyj/marcozyj/assets/github-contribution-grid-snake.svg" /></div>
